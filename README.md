@@ -1,10 +1,10 @@
 # Web-Scraping-Exercise-using-Python-What-is-Web-Scraping
 
-#Web Scraping
+# Web Scraping
 
 Web scraping is that when you want to extract some of the important data from the websites. When APIs are not available usually the ideal way of picking up some of the data through API which is recommended and which is like the best way of doing the things, but sometimes it’s not actually its little gray area because web scraping is not legally allowed on most of the web site.
 
-#Main things we need to understand
+# Main things we need to understand
 
 Rules of Web scraping
 Limitation of Web Scraping 
