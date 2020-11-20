@@ -7,8 +7,8 @@ Web scraping is that when you want to extract some of the important data from th
 # Main things we need to understand
 
 Rules of Web scraping<br>
-Limitation of Web Scraping 
-Basic HTML ans CSS
+Limitation of Web Scraping<br> 
+Basic HTML ans CSS<br>
 
     
 # Before starting this section there are some rules which are important to follow:
